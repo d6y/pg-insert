@@ -1,4 +1,4 @@
-name := "stored-proc"
+name := "pg-insert"
 
 version := "3.1"
 
